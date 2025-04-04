@@ -24,9 +24,8 @@ A lightweight, nostalgic command-line game inspired by Pacman. Navigate your cha
  Tech Stack  
 - Language: Python 3.x  
 - Libraries:  
-  - `curses` (terminal interface)  
-  - `pygame` (audio playback)  
-  - `sqlite3` (score persistence)  
+  - `winsound` (audio playback)  
+  - `text` (score persistence)  
 
 ---
 
