@@ -36,12 +36,7 @@ A lightweight, nostalgic command-line game inspired by Pacman. Navigate your cha
    cd cli-pacman  
    ```  
 
-2. Install dependencies:  
-   ```bash  
-   pip install -r requirements.txt  
-   ```  
-
-3. Start the game:  
+2. Start the game:  
    ```bash  
    python main.py  
    ```  
